@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/personal-expense-tracker-/static/css/main.3536e059.css",
+    "main.js": "/personal-expense-tracker-/static/js/main.ea70f011.js",
+    "index.html": "/personal-expense-tracker-/index.html",
+    "main.3536e059.css.map": "/personal-expense-tracker-/static/css/main.3536e059.css.map",
+    "main.ea70f011.js.map": "/personal-expense-tracker-/static/js/main.ea70f011.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3536e059.css",
+    "static/js/main.ea70f011.js"
+  ]
+}
