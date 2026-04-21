@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/personal-expense-tracker-/static/css/main.3536e059.css",
-    "main.js": "/personal-expense-tracker-/static/js/main.ba37d29e.js",
+    "main.css": "/personal-expense-tracker-/static/css/main.dd818a57.css",
+    "main.js": "/personal-expense-tracker-/static/js/main.88097c38.js",
     "index.html": "/personal-expense-tracker-/index.html",
-    "main.3536e059.css.map": "/personal-expense-tracker-/static/css/main.3536e059.css.map",
-    "main.ba37d29e.js.map": "/personal-expense-tracker-/static/js/main.ba37d29e.js.map"
+    "main.dd818a57.css.map": "/personal-expense-tracker-/static/css/main.dd818a57.css.map",
+    "main.88097c38.js.map": "/personal-expense-tracker-/static/js/main.88097c38.js.map"
   },
   "entrypoints": [
-    "static/css/main.3536e059.css",
-    "static/js/main.ba37d29e.js"
+    "static/css/main.dd818a57.css",
+    "static/js/main.88097c38.js"
   ]
 }
